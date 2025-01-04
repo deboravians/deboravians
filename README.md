@@ -17,7 +17,7 @@ Estas são algumas das principais tecnologias que utilizo:
 
 ## Meus projetos :muscle:
 
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
+<a href="https://github.com/deboravians/SGB">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
 </a>   
