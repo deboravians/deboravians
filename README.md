@@ -18,12 +18,13 @@ Estas são algumas das principais tecnologias que utilizo:
 ## Meus projetos :muscle:
 
 <a href="https://github.com/deboravians/SGB">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
 </a>   
 
-<a href="(https://github.com/Werley-08/SISO">
+<a href="https://github.com/Werley-08/SISO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SISO&theme=dark" />
-</a>
+</a> 
 
 ## Entre em contato :handshake:
 
