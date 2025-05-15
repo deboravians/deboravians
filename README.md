@@ -1,5 +1,5 @@
 
-<h1>Olá Devs, eu sou <a  href="https://www.linkedin.com/in/deboraviana3/">Debora Viana</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Olá Devs, eu sou <a  href="https://www.linkedin.com/in/deboraviana3/">Debora Viana</a> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
 
 Sou cearense, tenho 20 anos, sou formada como **técnica em informática** e atualmente curso **Engenharia de Software** na Universidade Federal do Ceará. Estou em constante evolução profissional, dividindo meus estudos entre tecnologias **frontend** e **backend** para me tornar uma desenvolvedora cada vez mais completa.
 
