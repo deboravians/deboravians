@@ -21,9 +21,9 @@ Estas são algumas das principais tecnologias que utilizo:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=SGB&theme=dark" />
 </a>   
 
-<a href="https://github.com/deboravians/toDoList-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deboravians&repo=toDoList-docker&theme=dark" />
-</a> 
+<a href="(https://github.com/Werley-08/SISO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SISO&theme=dark" />
+</a>
 
 ## Entre em contato :handshake:
 
