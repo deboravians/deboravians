@@ -1,7 +1,7 @@
 
 <h1>Olá Devs, eu sou <a  href="https://www.linkedin.com/in/deboraviana3/">Debora Viana</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Sou cearense, tenho 20 anos, sou **técnica em informática** e graduanda em **Engenharia de Software** na Universidade Federal do Ceará. Estou focada em aperfeiçoar meu perfil profissional e desenvolver minhas habilidades na área do desenvolvimento, sempre dividindo meus estudos entre tecnologias frontend e backend.
+Sou cearense, tenho 20 anos, sou formada como **técnica em informática** e atualmente curso **Engenharia de Software** na Universidade Federal do Ceará. Estou em constante evolução profissional, dividindo meus estudos entre tecnologias **frontend** e **backend** para me tornar uma desenvolvedora cada vez mais completa.
 
 ## Habilidades 👨‍💻
 
@@ -9,11 +9,28 @@ Estas são algumas das principais tecnologias que utilizo:
 
 **Linguagens e Tecnologias:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,html,css,javascript,typescript,nodejs,react,&theme=dark&perline=15)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java">
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring">
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React">
+</p>
 
 **Utilidades:**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,electron,figma,vscode,gitlab,idea&theme=dark&perline=15)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker">
+  <img src="https://skillicons.dev/icons?i=electron&theme=dark" title="Electron">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VSCode">
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" title="GitLab">
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" title="IntelliJ IDEA">
+</p>
 
 ## Meus projetos :muscle:
 
@@ -28,6 +45,6 @@ Estas são algumas das principais tecnologias que utilizo:
 
 ## Entre em contato :handshake:
 
-<a href="https://www.linkedin.com/in/deboraviana3/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15"></a>
-<a href="mailto:deboravianadev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15"></a>
-<a href="https://www.instagram.com/deboravians/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15"></a>
+<a href="https://www.linkedin.com/in/deboraviana3/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15" title="Linkedin"></a>
+<a href="mailto:deboravianadev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15" title="Gmail"></a>
+<a href="https://www.instagram.com/deboravians/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15" title="Instagram"></a>
