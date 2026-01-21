@@ -44,7 +44,7 @@ Estas são algumas das principais tecnologias que utilizo:
 </a> 
 
 <a href="https://github.com/WendelRodriguesz/Roomie_Android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WendelRodriguez&repo=Roomie_Android&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WendelRodriguesz&repo=Roomie_Android&theme=dark" />
 </a> 
 
 ## Entre em contato :handshake:
