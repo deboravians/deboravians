@@ -1,7 +1,7 @@
 
 <h1>Olá Devs, eu sou <a  href="https://www.linkedin.com/in/deboraviana3/">Debora Viana</a> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
 
-Sou cearense, tenho 20 anos, sou formada como **técnica em informática** e atualmente curso **Engenharia de Software** na Universidade Federal do Ceará. Estou em constante evolução profissional, dividindo meus estudos entre tecnologias **frontend** e **backend** para me tornar uma desenvolvedora cada vez mais completa.
+Sou cearense, tenho 21 anos, sou formada como **técnica em informática** e atualmente curso **Engenharia de Software** na Universidade Federal do Ceará.
 
 ## Habilidades 👨‍💻
 
@@ -41,6 +41,10 @@ Estas são algumas das principais tecnologias que utilizo:
 
 <a href="https://github.com/Werley-08/SISO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Werley-08&repo=SISO&theme=dark" />
+</a> 
+
+<a href="https://github.com/WendelRodriguesz/Roomie_Android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WendelRodriguez&repo=Roomie_Android&theme=dark" />
 </a> 
 
 ## Entre em contato :handshake:
